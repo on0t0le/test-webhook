@@ -1,4 +1,4 @@
-nede('slave1') {
+node('slave1') {
   stage('Test stage') {
     echo 'Hello stage!'
   }
