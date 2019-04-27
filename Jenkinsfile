@@ -3,3 +3,4 @@ node('slave1') {
     echo 'Hello stage!'
   }
 }
+//comment here
