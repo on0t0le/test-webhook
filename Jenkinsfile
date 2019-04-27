@@ -1,5 +1,5 @@
 nede('slave1') {
-  stages ('Test stage'){
+  stage('Test stage') {
     echo 'Hello stage!'
   }
 }
