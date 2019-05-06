@@ -13,4 +13,7 @@ node('slave1') {
   stage('Docker build'){
     sh(script:'docker build -t test .')
   }
+  stage('Clean everything'){
+    cleanWs()
+  }
 }
