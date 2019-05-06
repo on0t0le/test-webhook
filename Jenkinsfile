@@ -8,3 +8,4 @@ node('slave1') {
     echo 'New text!'
   }
 }
+//test
