@@ -9,3 +9,4 @@ node('slave1') {
   }
 }
 //test
+//hook
