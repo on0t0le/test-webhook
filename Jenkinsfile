@@ -6,4 +6,3 @@ node('slave1') {
     echo 'New text!'
   }
 }
-//new comment
