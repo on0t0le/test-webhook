@@ -9,6 +9,3 @@ node('slave1') {
     echo 'New text!'
   }
 }
-//efgffd
-//dfgdfgdf
-//dfgdfgdfg
